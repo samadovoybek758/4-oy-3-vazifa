@@ -279,6 +279,22 @@
 
 
 // 21-masala
+// let a = + prompt("birinchi sonni kiriting")
+// let b = + prompt("ikkinchi sonni kiriting")
+// let c = + prompt("uchinchi sonni kiriting")
+// let result = ""
+
+// if(a>0 && b>0 && c>0){
+//     result ="3 ta musbat 0 manfiy"
+// } else if (a<0 && b>0 && c>0 || a>0 && b<0 && c>0  || a>0 && b>0 && c<0){
+//     result ="2 ta musbat 1 ta manfiy"
+// }else if (a<0 && b<0 && c>0 || a<0 && b>0 && c<0 || a>0 && b<0 && c<0) {
+//     result = "1 ta musbat 2 ta manfiy"
+// }else{
+//     result= "3 ta manfiy"
+// }
+// console.log(result);
+
 
 
 
